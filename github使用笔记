@@ -1,0 +1,2 @@
+在连接时，必须先启用ssh客户端
+eval "$(ssh-agent -s)"
